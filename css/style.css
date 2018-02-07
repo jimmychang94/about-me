@@ -1,3 +1,20 @@
-* {
+body {
   color: blue;
+  background-color: black; 
 }
+article {
+  width: 50%;
+}
+.basicinfo {
+  float: left;
+  width: auto;
+  margin-right: 5%;
+}
+.family {
+  color: red;
+}
+.work {
+  color: green;
+}
+
+
