@@ -1,6 +1,7 @@
 body {
   color: blue;
-  background-color: black; 
+  background-color: black;
+  margin-left: 3em;
 }
 article {
   width: 50%;
@@ -16,5 +17,9 @@ article {
 .work {
   color: green;
 }
-
-
+.goals {
+  color: lightseagreen;
+}
+.fruit {
+  color: orange;
+}
