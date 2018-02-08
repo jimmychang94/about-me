@@ -1,2 +1,4 @@
 # about-me
-About Me project for Code 201
+This code has been edited by.
+Jimmy Chang: Navigator.
+Ronnie Holmes: Driver.
