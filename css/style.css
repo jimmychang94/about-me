@@ -1,10 +1,10 @@
 body {
   color: blue;
-  background-color: black;
-  margin-left: 3em;
+  background-color: #000000;
+  margin-left: 10%;
 }
 article {
-  width: 50%;
+  width: 58%;
 }
 .basicinfo {
   float: left;
